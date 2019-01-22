@@ -2,5 +2,10 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/HakanARAS/git/Modeling-and-Methods-in-Optimization/Modeling Project/poi-3.9.jar" sourcepath="/Users/HakanARAS/.sourceattacher/poi-3.9-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/HakanARAS/git/Modeling-and-Methods-in-Optimization/Modeling Project/poi-ooxml-3.9.jar" sourcepath="/Users/HakanARAS/.sourceattacher/poi-ooxml-3.9-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/HakanARAS/git/Modeling-and-Methods-in-Optimization/Modeling Project/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/HakanARAS/git/Modeling-and-Methods-in-Optimization/Modeling Project/dom4j-1.6.1.jar" sourcepath="/Users/HakanARAS/.sourceattacher/dom4j-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/HakanARAS/git/Modeling-and-Methods-in-Optimization/Modeling Project/xmlbeans-2.3.0.jar" sourcepath="/Users/HakanARAS/.sourceattacher/xmlbeans-2.3.0-src.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
